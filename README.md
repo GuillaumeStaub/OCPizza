@@ -1,5 +1,5 @@
 
-## ![logo](Modifiables/OCPizza.png) OC Pizza Information System :
+## ![logo](/OCPizza.png) OC Pizza Information System :
 
 ## Why this project ? 
 In this project, I have to perform the analysis of the needs of a client. OC Pizza group of pizzerias who wishes to develop and open new sales point. The group wants to have its own IS and that it meets all their needs.
